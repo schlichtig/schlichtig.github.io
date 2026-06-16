@@ -7,6 +7,7 @@ permalink: /publications/2022-trustcom
 venue: "IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)"
 pages: "315--322"
 year: 2022
+date: 2022-01-01
 doi: "10.1109/TrustCom56396.2022.00051"
 paperurl: "https://doi.org/10.1109/TrustCom56396.2022.00051"
 bibtexurl: "/files/bibtex/wickert2022trustcom.bib"

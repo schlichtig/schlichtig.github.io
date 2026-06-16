@@ -2,10 +2,11 @@
 title: "CamBench — Cryptographic API Misuse Detection Tool Benchmark Suite"
 authors: "M. Schlichtig, A. K. Wickert, S. Krüger, E. Bodden, and M. Mezini"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publications/2022-cambench
 venue: "IEEE/ACM International Conference on Mining Software Repositories (MSR) — Registered Report"
 year: 2022
+date: 2022-01-01
 paperurl: "https://arxiv.org/abs/2204.06447"
 bibtexurl: "/files/bibtex/schlichtig2022cambench.bib"
 citation: "M. Schlichtig, A. K. Wickert, S. Krüger, E. Bodden, and M. Mezini. \"CamBench -- Cryptographic API Misuse Detection Tool Benchmark Suite.\" Registered Report (In-Principle Acceptance), MSR 2022."

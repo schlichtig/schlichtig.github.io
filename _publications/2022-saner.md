@@ -7,6 +7,7 @@ permalink: /publications/2022-saner
 venue: "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)"
 pages: "673--684"
 year: 2022
+date: 2022-01-01
 doi: "10.1109/SANER53432.2022.00085"
 paperurl: "https://doi.org/10.1109/SANER53432.2022.00085"
 bibtexurl: "/files/bibtex/schlichtig2022saner.bib"

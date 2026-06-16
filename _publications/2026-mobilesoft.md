@@ -6,6 +6,7 @@ category: conferences
 permalink: /publications/2026-mobilesoft
 venue: "IEEE/ACM 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft)"
 year: 2026
+date: 2026-01-01
 doi: "10.1145/3795077.3795118"
 paperurl: "https://doi.org/10.1145/3795077.3795118"
 bibtexurl: "/files/bibtex/khedkar2026mobilesoft.bib"

@@ -7,6 +7,7 @@ permalink: /publications/2022-issta
 venue: "31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)"
 pages: "532--543"
 year: 2022
+date: 2022-01-01
 doi: "10.1145/3533767.3534374"
 paperurl: "https://doi.org/10.1145/3533767.3534374"
 bibtexurl: "/files/bibtex/nachtigall2022issta.bib"

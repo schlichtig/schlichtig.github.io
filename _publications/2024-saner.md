@@ -7,6 +7,7 @@ permalink: /publications/2024-saner
 venue: "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)"
 pages: "693--704"
 year: 2024
+date: 2024-01-01
 doi: "10.1109/SANER60148.2024.00076"
 paperurl: "https://doi.org/10.1109/SANER60148.2024.00076"
 bibtexurl: "/files/bibtex/wickert2024saner.bib"
