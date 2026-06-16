@@ -22,7 +22,7 @@ $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
 @media (prefers-color-scheme: dark) {
-    :root {
+    :root:not([data-theme="light"]) {
         --global-base-color                 : #{$primary-color};
         --global-bg-color                   : #1a1a1a;
         --global-footer-bg-color            : #111111;
@@ -40,4 +40,23 @@ $sidebar-screen-min-width   : 1024px;
         --global-text-color-light           : #{$gray};
         --global-thead-color                : #2d2d2d;
     }
+}
+
+html[data-theme="dark"] {
+    --global-base-color                 : #{$primary-color};
+    --global-bg-color                   : #1a1a1a;
+    --global-footer-bg-color            : #111111;
+    --global-border-color               : #2d2d2d;
+    --global-dark-border-color          : #3d3d3d;
+    --global-code-background-color      : #242424;
+    --global-code-text-color            : #{$light-gray};
+    --global-fig-caption-color          : #{$gray};
+    --global-link-color                 : #{$primary-color};
+    --global-link-color-hover           : #{$light-primary-color};
+    --global-link-color-visited         : #{$dark-primary-color};
+    --global-masthead-link-color        : #e5e7eb;
+    --global-masthead-link-color-hover  : #{$primary-color};
+    --global-text-color                 : #e5e7eb;
+    --global-text-color-light           : #{$gray};
+    --global-thead-color                : #2d2d2d;
 }

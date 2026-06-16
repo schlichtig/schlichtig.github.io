@@ -27,7 +27,8 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
-:root {
+:root,
+html[data-theme="light"] {
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #ffffff;
     --global-footer-bg-color            : #{$lighter-primary-color};
