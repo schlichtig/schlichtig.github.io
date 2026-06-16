@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "orange"
 title                    : "Michael Schlichtig"
 title_separator          : "-"
 name                     : &name "Michael Schlichtig"
@@ -22,7 +22,7 @@ repository               : "schlichtig/schlichtig.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/portrait.jpg"
+  avatar           : "portrait.jpg"
   name             : "Michael Schlichtig"
   pronouns         :
   bio              : "PhD Candidate · Secure Software Engineering · Paderborn University · Heinz Nixdorf Institut"
