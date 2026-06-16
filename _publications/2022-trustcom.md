@@ -1,5 +1,5 @@
 ---
-title: "To Fix or Not to Fix: A Critical Study of Crypto-Misuses in the Wild"
+title: "[10] To Fix or Not to Fix: A Critical Study of Crypto-Misuses in the Wild"
 authors: "A. K. Wickert, L. Baumgärtner, M. Schlichtig, K. Narasimhan, and M. Mezini"
 collection: publications
 category: conferences

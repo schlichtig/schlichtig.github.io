@@ -1,5 +1,5 @@
 ---
-title: "Developing Teaching Materials on Artificial Intelligence by Using a Simulation Game (Work in Progress)"
+title: "[5] Developing Teaching Materials on Artificial Intelligence by Using a Simulation Game (Work in Progress)"
 authors: "S. Opel, M. Schlichtig, and C. Schulte"
 collection: publications
 category: conferences

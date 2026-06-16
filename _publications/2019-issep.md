@@ -1,5 +1,5 @@
 ---
-title: "Understanding Artificial Intelligence — A Project for the Development of Comprehensive Teaching Material"
+title: "[4] Understanding Artificial Intelligence — A Project for the Development of Comprehensive Teaching Material"
 authors: "M. Schlichtig, S. Opel, L. Budde, and C. Schulte"
 collection: publications
 category: conferences

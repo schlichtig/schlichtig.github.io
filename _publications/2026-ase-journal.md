@@ -1,5 +1,5 @@
 ---
-title: "Between Law and Code: Challenges and Opportunities for Automating Privacy Assessments"
+title: "[1] Between Law and Code: Challenges and Opportunities for Automating Privacy Assessments"
 authors: "M. Khedkar, M. Schlichtig, N. Atakishiyev, and E. Bodden"
 collection: publications
 category: manuscripts

@@ -1,5 +1,5 @@
 ---
-title: "A Large-Scale Study of Usability Criteria Addressed by Static Analysis Tools"
+title: "[8] A Large-Scale Study of Usability Criteria Addressed by Static Analysis Tools"
 authors: "M. Nachtigall, M. Schlichtig, and E. Bodden"
 collection: publications
 category: conferences

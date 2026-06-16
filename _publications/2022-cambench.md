@@ -1,5 +1,5 @@
 ---
-title: "CamBench — Cryptographic API Misuse Detection Tool Benchmark Suite"
+title: "[7] CamBench — Cryptographic API Misuse Detection Tool Benchmark Suite"
 authors: "M. Schlichtig, A. K. Wickert, S. Krüger, E. Bodden, and M. Mezini"
 collection: publications
 category: conferences

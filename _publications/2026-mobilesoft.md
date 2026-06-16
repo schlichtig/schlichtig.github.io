@@ -1,5 +1,5 @@
 ---
-title: "Challenges in Android Data Disclosure: An Empirical Study"
+title: "[14] Challenges in Android Data Disclosure: An Empirical Study"
 authors: "M. Khedkar, M. Schlichtig, M. Soliman, and E. Bodden"
 collection: publications
 category: conferences

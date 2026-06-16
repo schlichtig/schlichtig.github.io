@@ -1,5 +1,5 @@
 ---
-title: "Entwicklung und Reflexion einer Unterrichtssequenz zum Maschinellen Lernen als Aspekt von Data Science in der Sekundarstufe II"
+title: "[2] Entwicklung und Reflexion einer Unterrichtssequenz zum Maschinellen Lernen als Aspekt von Data Science in der Sekundarstufe II"
 authors: "S. Opel, M. Schlichtig, C. Schulte, R. Biehler, D. Frischemeier, S. Podworny, and T. Wassong"
 collection: publications
 category: conferences

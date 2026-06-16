@@ -1,5 +1,5 @@
 ---
-title: "Building a Framework to Improve the User Experience of Static Analysis Tools"
+title: "[12] Building a Framework to Improve the User Experience of Static Analysis Tools"
 authors: "M. Schlichtig"
 collection: publications
 category: conferences

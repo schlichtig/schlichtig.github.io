@@ -1,5 +1,5 @@
 ---
-title: "Supporting Error Chains in Static Analysis for Precise Evaluation Results and Enhanced Usability"
+title: "[13] Supporting Error Chains in Static Analysis for Precise Evaluation Results and Enhanced Usability"
 authors: "A. K. Wickert, M. Schlichtig, M. Vogel, L. Winter, M. Mezini, and E. Bodden"
 collection: publications
 category: conferences
