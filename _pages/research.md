@@ -9,7 +9,7 @@ My research lies at the intersection of **program analysis**, **human-centered s
 
 ## Active Projects
 
-**SecAI** *(Project Group, 2023–2024)*
+**SecAI — AI-supported Security Testing** *(Project Group, 2024–2025)*
 SonarQube plugin integrating CogniCrypt static analysis results with usability-focused visualization and AI-assisted fix suggestions, developed by a team of master's students. [Project page](https://www.hni.uni-paderborn.de/en/sse/lehre/projektgruppen-vergangener-semester/ss-ws-ai-supported-security-testing) · [Plugin docs](https://secure-software-engineering.github.io/CogniCryptSQPlugin/latest/)
 
 ## Completed Projects
