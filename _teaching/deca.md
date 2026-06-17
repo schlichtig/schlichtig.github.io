@@ -5,6 +5,7 @@ type: "Master's course"
 permalink: /teaching/deca
 venue: "Paderborn University, Department of Computer Science"
 date: 2019-01-01
+semester: "WS 19/20, 20/21, 21/22, 23/24, 24/25"
 location: "Paderborn, Germany"
 ---
 

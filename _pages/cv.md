@@ -46,18 +46,22 @@ Host: Prof. Rodrigo Bonifácio (UnB); invited talk at Prof. Paulo Borba's group 
 
 **Designing Code Analyses for Large-Scale Software Systems (DECA)**
 Paderborn University, Master's course
+
 WS 19/20, 20/21, 21/22, 23/24, 24/25
 
 **Secure Software Engineering (SSE)**
 Paderborn University, Bachelor's course
+
 SS 2020
 
 **Software Engineering Praktikum (SWTPra)**
 Paderborn University, Bachelor's practical course
+
 WS 21/22, 22/23
 
 **SecAI — AI-supported Security Testing**
 Paderborn University, Project group
+
 2024–2025
 
 ---

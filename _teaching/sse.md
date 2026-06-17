@@ -5,6 +5,7 @@ type: "Bachelor's course"
 permalink: /teaching/sse
 venue: "Paderborn University, Department of Computer Science"
 date: 2020-01-01
+semester: "SS 2020"
 location: "Paderborn, Germany"
 ---
 
