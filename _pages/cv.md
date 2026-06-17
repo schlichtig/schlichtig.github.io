@@ -62,7 +62,7 @@ WS 21/22, 22/23
 **SecAI — AI-supported Security Testing**
 Paderborn University, Project group
 
-2024–2025
+WS 24/25 – SS 25
 
 ---
 
