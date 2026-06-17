@@ -10,4 +10,5 @@ location: "Paderborn, Germany"
 
 Undergraduate practical course in which student teams develop a software project over one semester applying software engineering methods including requirements engineering, design, testing, and agile practices.
 
-I supervised student teams in this course in WS 21/22 and WS 22/23.
+I supervised student teams in this course in:
+WS 21/22, 22/23
