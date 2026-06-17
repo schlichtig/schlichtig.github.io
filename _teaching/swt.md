@@ -5,6 +5,7 @@ type: "Bachelor's practical course"
 permalink: /teaching/swt
 venue: "Paderborn University, Department of Computer Science"
 date: 2019-01-01
+semester: "WS 21/22, 22/23"
 location: "Paderborn, Germany"
 ---
 

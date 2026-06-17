@@ -5,6 +5,7 @@ type: "Project group"
 permalink: /teaching/secai
 venue: "Paderborn University, Department of Computer Science"
 date: 2024-01-01
+semester: "2024–2025"
 location: "Paderborn, Germany"
 ---
 
