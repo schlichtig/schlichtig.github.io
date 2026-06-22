@@ -40,7 +40,7 @@ Paderborn University, 2017
 
 **Research Visit** · April–May 2025
 [Universidade de Brasília (UnB)](https://www.unb.br/) and [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), Brazil
-- Invited talks at UnB and Prof. Paulo Borba's group (UFPE)
+- Invited talks: *Helping Developers Reduce Misuses of Java APIs* (UnB and UFPE)
 
 ---
 
