@@ -1,5 +1,5 @@
 ---
-title: "[3] Maschinelles Lernen im Unterricht mit Jupyter Notebook"
+title: "[2] Maschinelles Lernen im Unterricht mit Jupyter Notebook"
 authors: "M. Schlichtig, S. Opel, C. Schulte, et al."
 collection: publications
 category: conferences
