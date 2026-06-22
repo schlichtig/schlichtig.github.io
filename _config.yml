@@ -28,7 +28,7 @@ author:
   bio              : "PhD Candidate · Secure Software Engineering · Paderborn University · Heinz Nixdorf Institut"
   location         : "Paderborn, Germany"
   employer         : "Paderborn University"
-  uri              : "https://go.upb.de/michaelschlichtig"
+  uri              : "https://schlichtig.github.io"
   email            : "michael.schlichtig@uni-paderborn.de"
 
   # Academic websites
@@ -122,7 +122,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true
   path                   : # blank (default) uses feed.xml
 
 
@@ -140,8 +140,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "portrait.jpg"
+og_description           : "Researcher in Secure Software Engineering · Program Analysis · Human-Centered SE · Paderborn University"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -270,21 +270,13 @@ timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jemoji
 
 # Mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jemoji
 
 
 # Archives
