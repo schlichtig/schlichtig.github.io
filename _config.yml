@@ -149,9 +149,15 @@ og_description           : "Researcher in Secure Software Engineering · Program
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Michael Schlichtig"
+  links:
+    - "https://schlichtig.org"
+    - "https://scholar.google.de/citations?user=Bp8wDfcAAAAJ"
+    - "https://orcid.org/0000-0001-6600-6171"
+    - "https://github.com/schlichtig"
+    - "https://www.linkedin.com/in/schlichtig"
+    - "https://go.upb.de/michaelschlichtig"
 
 
 # Analytics

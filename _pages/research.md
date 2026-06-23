@@ -2,6 +2,7 @@
 layout: single
 title: "Research"
 permalink: /research/
+description: "Research by Michael Schlichtig: program analysis, human-centered software engineering, and AI-assisted secure software — AI-assisted repair of cryptographic API misuses, static analysis usability, and the SecAI SonarQube plugin."
 author_profile: true
 ---
 

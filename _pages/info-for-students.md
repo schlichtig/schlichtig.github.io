@@ -2,6 +2,7 @@
 layout: archive
 title: "Information for Students"
 permalink: /info-for-students/
+description: "Information for students interested in a bachelor's or master's thesis with Michael Schlichtig at Paderborn University: thesis topics, formalities, and guidance on writing a good thesis."
 author_profile: true
 ---
 

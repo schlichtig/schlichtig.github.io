@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Michael Schlichtig"
+description: "Michael Schlichtig — researcher in Secure Software Engineering at Paderborn University. Work on usable developer tooling for security and privacy: static analysis, cryptographic API misuse detection, and AI-assisted repair of security defects."
 author_profile: true
 redirect_from:
   - /about/

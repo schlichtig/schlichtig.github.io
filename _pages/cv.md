@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+description: "Curriculum vitae of Michael Schlichtig — researcher in Secure Software Engineering at Paderborn University: education, research experience, teaching, grants (BMBF API_ASSIST), awards, and academic service."
 author_profile: true
 redirect_from:
   - /resume
