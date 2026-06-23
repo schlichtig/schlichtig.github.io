@@ -20,17 +20,15 @@ Please attach your transcript of records and CV with the email.
 
 ## Getting Started & Formalities
 
-- [Final Thesis — UPB Computer Science](https://cs.uni-paderborn.de/en/studies/study-elements/final-thesis) — official information on the thesis as a study element.
-- [Thesis FAQ — UPB Computer Science](https://cs.uni-paderborn.de/en/studies/advice-and-support/faq#c147510) — registration, extension, submission, and other formal questions.
-- [Notes on Plagiarism & Scientific Ethics — UPB Computer Science](https://cs.uni-paderborn.de/en/studies/formalities/notes-on-plagiarism) — please read before you start writing.
+- [Final Thesis — UPB Computer Science](https://cs.uni-paderborn.de/en/studies/study-components/final-thesis) — official information on the thesis as a study component.
+- [Submission of Final Theses — UPB](https://www.uni-paderborn.de/zv/3-2/themen/abschlussarbeiten) — registration, deadlines, and electronic submission of your thesis.
+- [Notes on Plagiarism & Scientific Ethics — UPB](https://cs.uni-paderborn.de/fileadmin-eim/informatik/fg/css/computational-sociolinguistics-s21/upb-plagiarism-leaflet.pdf) — please read before you start writing.
 - [Documenting & Disclosing the Use of AI Tools — UPB](https://www.uni-paderborn.de/zv/3-2/nachrichten-termine/details/handreichung-zur-dokumentation-und-kennzeichnung-von-ki-tools) — university handout on how to document and label AI-tool usage in academic work.
-- [Bachelor's & Master's Theses — Secure Software Engineering (SSE)](https://www.hni.uni-paderborn.de/sse/lehre/bachelor-masterarbeiten) — open and example topics in our group.
+- [Bachelor's & Master's Theses — Secure Software Engineering (SSE)](https://www.hni.uni-paderborn.de/sse/lehre/bachelor-und-masterarbeiten) — open and example topics in our group.
 
 ## Writing a Good Thesis
 
 - [How to Write a Great Research Paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) — Simon Peyton Jones
 - [How to Give a Great Research Talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/) — Simon Peyton Jones
 - [Thesis Guide — Advice for Great Computer Science Thesis Projects](https://thesisguide.org/) — Elmar Jürgens (TUM & CQSE GmbH)
-- [How to Write a Great Master's Thesis](https://open-bbb.uni-paderborn.de/b/har-tz9-i7y-hy4) — Stefan Krüger (earned his PhD in our group, now in industry)
-- [Writing Academic Papers](https://sarahnadi.org/writing-papers/) — Sarah Nadi (former post-doc in our group)
 - [How to Write a Scientific Abstract for Your Research Article](https://merc.laurentian.ca/sites/default/files/5b_mckee_2018_how_to_write_a_scientific_abstract.pdf) — Karen McKee
