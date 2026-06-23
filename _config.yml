@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    : "https://scholar.google.de/citations?user=Bp8wDfcAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Bp8wDfcAAAAJ"
   inspire-hep      :
   impactstory      :
   orcid            : "https://orcid.org/0000-0001-6600-6171"
@@ -153,7 +153,7 @@ social:
   name                   : "Michael Schlichtig"
   links:
     - "https://schlichtig.org"
-    - "https://scholar.google.de/citations?user=Bp8wDfcAAAAJ"
+    - "https://scholar.google.com/citations?user=Bp8wDfcAAAAJ"
     - "https://orcid.org/0000-0001-6600-6171"
     - "https://github.com/schlichtig"
     - "https://www.linkedin.com/in/schlichtig"
