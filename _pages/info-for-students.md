@@ -21,9 +21,9 @@ Please attach your transcript of records and CV with the email.
 ## Getting Started & Formalities
 
 - [Final Thesis — UPB Computer Science](https://cs.uni-paderborn.de/en/studies/study-components/final-thesis) — official information on the thesis as a study component.
-- [Submission of Final Theses — UPB](https://www.uni-paderborn.de/zv/3-2/themen/abschlussarbeiten) — registration, deadlines, and electronic submission of your thesis.
+- [Submission of Final Theses — UPB](https://www.uni-paderborn.de/en/zv/3-2/topics/final-thesis-1) — registration, deadlines, and electronic submission of your thesis.
 - [Notes on Plagiarism & Scientific Ethics — UPB](https://cs.uni-paderborn.de/fileadmin-eim/informatik/fg/css/computational-sociolinguistics-s21/upb-plagiarism-leaflet.pdf) — please read before you start writing.
-- [Documenting & Disclosing the Use of AI Tools — UPB](https://www.uni-paderborn.de/zv/3-2/nachrichten-termine/details/handreichung-zur-dokumentation-und-kennzeichnung-von-ki-tools) — university handout on how to document and label AI-tool usage in academic work.
+- [Documenting & Disclosing the Use of AI Tools — UPB](https://www.uni-paderborn.de/en/zv/3-2/news-dates/details/handreichung-zur-dokumentation-und-kennzeichnung-von-ki-tools) — university handout on how to document and label AI-tool usage in academic work.
 - [Bachelor's & Master's Theses — Secure Software Engineering (SSE)](https://www.hni.uni-paderborn.de/sse/lehre/bachelor-und-masterarbeiten) — open and example topics in our group.
 
 ## Writing a Good Thesis

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Computer Science at [Paderborn University](https://www.uni-paderborn.de/en/), working in the Research Group [Secure Software Engineering (SSE)](https://www.hni.uni-paderborn.de/sse/) led by [Prof. Dr. Eric Bodden](https://www.bodden.de) at the Heinz Nixdorf Institute.
+I am a researcher in Computer Science at [Paderborn University](https://www.uni-paderborn.de/en/), working in the Research Group [Secure Software Engineering (SSE)](https://www.hni.uni-paderborn.de/sse/) led by [Prof. Dr. Eric Bodden](https://www.bodden.de) at the Heinz Nixdorf Institute.
 
 My research sits at the intersection of **program analysis**, **human-centered software engineering**, and **AI-assisted secure software** — increasingly, *software engineering with and for AI*. My dissertation, *"Helping Java Developers Reduce Cryptographic API Misuses"* (submitted June 2026, defense August 31, 2026), spans empirical usability research on static analysis tools, the FUM misuse-classification framework, and LLM-assisted repair of cryptographic API misuses, realized in SecAI — a usability-focused SonarQube plugin that uses large language models to *fix* security defects rather than merely report them.
 

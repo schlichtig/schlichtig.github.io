@@ -29,7 +29,7 @@ Paderborn University, 2017
 
 ## Research Experience
 
-**Research Associate / PhD Candidate** · 09/2019 – present
+**Research Associate / Doctoral Researcher** · 09/2019 – present
 [Paderborn University](https://www.uni-paderborn.de/en/), [Research Group Secure Software Engineering (SSE)](https://sse.uni-paderborn.de/)
 - Dissertation on usability of static analysis tools, cryptographic API misuse detection, and LLM-assisted repair (SecAI)
 - Principal Investigator, BMBF Software Campus project *API_ASSIST* (100k EUR, 02/2023–08/2024)

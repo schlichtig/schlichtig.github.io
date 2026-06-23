@@ -12,7 +12,7 @@ site_theme               : "orange"
 title                    : "Michael Schlichtig"
 title_separator          : "-"
 name                     : &name "Michael Schlichtig"
-description              : &description "Michael Schlichtig — PhD candidate in Secure Software Engineering at Paderborn University. Research on usable developer tooling for security and privacy: static analysis, cryptographic API misuse detection, and AI-assisted repair of security defects."
+description              : &description "Michael Schlichtig — Researcher in Secure Software Engineering at Paderborn University. Research on usable developer tooling for security and privacy: static analysis, cryptographic API misuse detection, and AI-assisted repair of security defects."
 url                      : https://schlichtig.org
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "schlichtig/schlichtig.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "portrait.jpg"
   name             : "Michael Schlichtig"
   pronouns         :
-  bio              : "PhD Candidate · Secure Software Engineering · Paderborn University · Heinz Nixdorf Institute"
+  bio              : "Researcher · Secure Software Engineering · Paderborn University · Heinz Nixdorf Institute"
   location         : "Paderborn, Germany"
   employer         : "Paderborn University"
   uri              : "https://schlichtig.org"
