@@ -22,7 +22,7 @@ My research sits at the intersection of **program analysis**, **human-centered s
 ## News
 
 - **06/2026** — Dissertation submitted. Defense scheduled for August 31, 2026.
-- **2026** — Journal article published: *Between Law and Code: Challenges and Opportunities for Automating Privacy Assessments.* Automated Software Engineering, 33(2):56. ([doi](https://doi.org/10.1007/s10515-026-00601-4))
-- **2026** — Conference paper published: *Challenges in Android Data Disclosure: An Empirical Study.* MOBILESoft 2026. ([doi](https://doi.org/10.1145/3795077.3795118))
-- **2026** — Workshop paper accepted: [*FP-Predictor — False Positive Prediction for Static Analysis Reports.*](https://conf.researchr.org/details/icse-2026/static-2026-papers/1/FP-Predictor-False-Positive-Prediction-for-Static-Analysis-Reports) STATIC@ICSE 2026.
+- **02/2026** — Journal article published: *Between Law and Code: Challenges and Opportunities for Automating Privacy Assessments.* Automated Software Engineering, 33(2):56. ([doi](https://doi.org/10.1007/s10515-026-00601-4))
+- **01/2026** — Conference paper published: *Challenges in Android Data Disclosure: An Empirical Study.* MOBILESoft 2026. ([doi](https://doi.org/10.1145/3795077.3795118))
+- **12/2025** — Workshop paper accepted: [*FP-Predictor — False Positive Prediction for Static Analysis Reports.*](https://conf.researchr.org/details/icse-2026/static-2026-papers/1/FP-Predictor-False-Positive-Prediction-for-Static-Analysis-Reports) STATIC@ICSE 2026.
 - **04–05/2025** — Research visit to Universidade de Brasília (UnB) and Universidade Federal de Pernambuco (UFPE), Brazil. Invited talks: *Helping Developers Reduce Misuses of Java APIs* (UnB and UFPE).

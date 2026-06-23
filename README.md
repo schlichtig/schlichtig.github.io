@@ -2,7 +2,7 @@
 
 Personal academic website of Michael Schlichtig, PhD candidate in Secure Software Engineering at Paderborn University.
 
-**Live site:** https://schlichtig.github.io
+**Live site:** https://schlichtig.org
 
 Built with the [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template.
 

@@ -13,7 +13,7 @@ My research lies at the intersection of **program analysis**, **human-centered s
 Studying how static analysis (SAST) tools can guide large language models toward *correct* repairs of cryptographic API misuses — supplying the violated constraint, the relevant code path, and the specification as structured context to reduce hallucination and improve fix correctness, evaluated on the CamBench benchmark. This line moves software analysis from *detecting* defects to *fixing* them with AI.
 
 **SecAI — AI-supported Security Testing**
-A SonarQube plugin that integrates LLM-assisted repair, false-positive prediction, and usability principles, surfacing prioritized, explainable, and fixable warnings inside a development environment practitioners already use. Built in a one-year master's project group I independently conceived and led (WS 24/25 – SS 25). [Project page](https://www.hni.uni-paderborn.de/en/sse/lehre/projektgruppen-vergangener-semester/ss-ws-ai-supported-security-testing) · [Plugin docs](https://secure-software-engineering.github.io/CogniCryptSQPlugin/latest/)
+A SonarQube plugin that integrates LLM-assisted repair, false-positive prediction, and usability principles, surfacing prioritized, explainable, and fixable warnings inside a development environment practitioners already use. Built in a one-year master's project group I independently conceived and led (Winter 2024 – Summer 2025). [Project page](https://www.hni.uni-paderborn.de/en/sse/lehre/projektgruppen-vergangener-semester/ss-ws-ai-supported-security-testing) · [Plugin docs](https://secure-software-engineering.github.io/CogniCryptSQPlugin/latest/)
 
 ## Completed Projects
 

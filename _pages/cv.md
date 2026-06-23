@@ -47,27 +47,27 @@ Paderborn University, 2017
 ## Teaching
 
 **Designing Code Analyses for Large-Scale Software Systems (DECA)**
-Paderborn University, Master's course — as teaching assistant (exercises, tutorials, supervision)
+Paderborn University, Master's course — as teaching assistant: led exercise sessions, student supervision, assignment design and grading
 
-WS 19/20, 20/21, 21/22, 23/24, 24/25
+Winter 2019, Winter 2020, Winter 2021, Winter 2023, Winter 2024
 
 **Secure Software Engineering (SSE)**
-Paderborn University, Bachelor's course — as teaching assistant
+Paderborn University, Bachelor's course — as teaching assistant: student supervision and supervision of the BiBiFi (Build It, Break It, Fix It) security project
 
-SS 2020
+Summer 2020
 
 **Software Engineering Praktikum (SWTPra)**
-Paderborn University, Bachelor's practical course — as teaching assistant (team supervision, code review)
+Paderborn University, Bachelor's practical course — as teaching assistant: project assignment design, supervision of tutors and student teams, code reviews, organization of events (project fair, tournament) and sponsors, occasional lectures
 
-WS 21/22, 22/23
+Winter 2021, Winter 2022
 
 **SecAI — AI-supported Security Testing**
 Paderborn University, Project group — independently conceived and led
 
-WS 24/25 – SS 25
+Winter 2024 – Summer 2025
 
 **Thesis Supervision** · since 08/2018
-15 bachelor's and master's theses supervised; topics include static analysis, cryptographic API misuse, Android privacy, benchmarking, usability, and QKD post-processing.
+14 bachelor's and master's theses supervised; topics include static analysis, cryptographic API misuse, Android privacy, benchmarking, usability, and QKD post-processing.
 
 ---
 
