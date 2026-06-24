@@ -10,6 +10,6 @@ date: 2026-01-01
 doi: "10.1145/3795077.3795118"
 paperurl: "https://doi.org/10.1145/3795077.3795118"
 bibtexurl: "/files/bibtex/khedkar2026mobilesoft.bib"
-citation: "M. Khedkar, M. Schlichtig, M. Soliman, and E. Bodden. \"Challenges in Android Data Disclosure: An Empirical Study.\" In <i>Proc. MOBILESoft</i>, 2026."
+citation: "M. Khedkar, M. Schlichtig, M. Soliman, and E. Bodden. \"Challenges in Android Data Disclosure: An Empirical Study.\" In <i>Proc. MOBILESoft</i>, 2026 (to appear)."
 excerpt: "Empirical study revealing widespread gaps between what Android apps actually collect and what they disclose in their privacy notices."
 ---
