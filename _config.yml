@@ -12,7 +12,7 @@ site_theme               : "orange"
 title                    : "Michael Schlichtig"
 title_separator          : "-"
 name                     : &name "Michael Schlichtig"
-description              : &description "Michael Schlichtig — Researcher in Secure Software Engineering at Paderborn University. Research on usable developer tooling for security and privacy: static analysis, cryptographic API misuse detection, and AI-assisted repair of security defects."
+description              : &description "Michael Schlichtig — PhD Researcher in Secure Software Engineering at Paderborn University. Research on usable developer tooling for security and privacy: static analysis, cryptographic API misuse detection, and AI-assisted repair of security defects."
 url                      : https://schlichtig.org
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "schlichtig/schlichtig.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "portrait.jpg"
   name             : "Michael Schlichtig"
   pronouns         :
-  bio              : "Researcher · Secure Software Engineering · Paderborn University · Heinz Nixdorf Institute"
+  bio              : "PhD Researcher · Secure Software Engineering · Paderborn University · Heinz Nixdorf Institute"
   location         : "Paderborn, Germany"
   employer         : "Paderborn University"
   uri              : "https://schlichtig.org"
@@ -127,10 +127,8 @@ atom_feed:
 
 
 # SEO Related
-# google_site_verification: Token nach Anlegen der Google-Search-Console-Property
-# (URL-Präfix, Meta-Tag-Methode) hier eintragen. Empfohlen wird jedoch die
-# Domain-Property via DNS-TXT in Cloudflare -- dann bleibt dieses Feld leer.
-# Siehe "Schritt 6" in Bewerbung TU Wien/TODO-domain-schlichtig-dev.md.
+# google_site_verification: Search-Console-Property schlichtig.org ist per
+# DNS-TXT (IONOS) verifiziert; Sitemap eingereicht. Dieses Meta-Tag-Feld bleibt daher leer.
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
@@ -145,7 +143,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : "portrait.jpg"
-og_description           : "Researcher in Secure Software Engineering · Program Analysis · Human-Centered SE · Paderborn University"
+og_description           : "PhD Researcher in Secure Software Engineering · Program Analysis · Human-Centered SE · Paderborn University"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

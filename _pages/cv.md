@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-description: "Curriculum vitae of Michael Schlichtig — researcher in Secure Software Engineering at Paderborn University: education, research experience, teaching, grants (BMBF API_ASSIST), awards, and academic service."
+description: "Curriculum vitae of Michael Schlichtig — PhD Researcher in Secure Software Engineering at Paderborn University: education, research experience, teaching, grants (BMBF API_ASSIST), awards, and academic service."
 author_profile: true
 redirect_from:
   - /resume
@@ -30,7 +30,7 @@ Paderborn University, 2017
 
 ## Research Experience
 
-**Research Associate / Doctoral Researcher** · 09/2019 – present
+**Research Associate / PhD Researcher** · 09/2019 – present
 [Paderborn University](https://www.uni-paderborn.de/en/), [Research Group Secure Software Engineering (SSE)](https://sse.uni-paderborn.de/)
 - Dissertation on usability of static analysis tools, cryptographic API misuse detection, and LLM-assisted repair (SecAI)
 - Principal Investigator, BMBF Software Campus project *API_ASSIST* (100k EUR, 02/2023–08/2024)

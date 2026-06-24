@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "Michael Schlichtig"
-description: "Michael Schlichtig — researcher in Secure Software Engineering at Paderborn University. Work on usable developer tooling for security and privacy: static analysis, cryptographic API misuse detection, and AI-assisted repair of security defects."
+description: "Michael Schlichtig — PhD Researcher in Secure Software Engineering at Paderborn University. Work on usable developer tooling for security and privacy: static analysis, cryptographic API misuse detection, and AI-assisted repair of security defects."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a researcher in Computer Science at [Paderborn University](https://www.uni-paderborn.de/en/), working in the Research Group [Secure Software Engineering (SSE)](https://www.hni.uni-paderborn.de/sse/) led by [Prof. Dr. Eric Bodden](https://www.bodden.de) at the Heinz Nixdorf Institute.
+I am a PhD Researcher in Computer Science at [Paderborn University](https://www.uni-paderborn.de/en/), working in the Research Group [Secure Software Engineering (SSE)](https://www.hni.uni-paderborn.de/sse/) led by [Prof. Dr. Eric Bodden](https://www.bodden.de) at the Heinz Nixdorf Institute.
 
 My research sits at the intersection of **program analysis**, **human-centered software engineering**, and **AI-assisted secure software** — increasingly, *software engineering with and for AI*. My dissertation, *"Helping Java Developers Reduce Cryptographic API Misuses"* (submitted June 2026, defense August 31, 2026), spans empirical usability research on static analysis tools, the FUM misuse-classification framework, and LLM-assisted repair of cryptographic API misuses, realized in SecAI — a usability-focused SonarQube plugin that uses large language models to *fix* security defects rather than merely report them.
 
