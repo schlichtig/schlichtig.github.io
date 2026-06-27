@@ -35,7 +35,8 @@
       {% endif %}
       <li><a href="https://go.upb.de/michaelschlichtig"><i class="fas fa-fw fa-university icon-pad-right" aria-hidden="true"></i>University profile</a></li>
       {% if author.email_user and author.email_domain %}
-        <li>{% include obfuscated-email.html icon="fas fa-fw fa-envelope icon-pad-right" %}</li>
+        {% assign email_label = site.data.ui-text[site.locale].email_label | default: "Email" %}
+        <li>{% include obfuscated-email.html icon="fas fa-fw fa-envelope icon-pad-right" label=email_label %}</li>
       {% elsif author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
