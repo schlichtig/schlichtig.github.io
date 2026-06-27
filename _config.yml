@@ -29,7 +29,9 @@ author:
   location         : "Paderborn, Germany"
   employer         : "Paderborn University"
   uri              : "https://schlichtig.org"
-  email            : "michael.schlichtig@uni-paderborn.de"
+  email            :
+  email_user       : "michael.schlichtig"
+  email_domain     : "uni-paderborn.de"
 
   # Academic websites
   academia         :

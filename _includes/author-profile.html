@@ -34,7 +34,9 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       <li><a href="https://go.upb.de/michaelschlichtig"><i class="fas fa-fw fa-university icon-pad-right" aria-hidden="true"></i>University profile</a></li>
-      {% if author.email %}
+      {% if author.email_user and author.email_domain %}
+        <li>{% include obfuscated-email.html icon="fas fa-fw fa-envelope icon-pad-right" %}</li>
+      {% elsif author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
 

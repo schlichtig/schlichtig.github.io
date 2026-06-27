@@ -2,7 +2,7 @@
 layout: single
 title: "Privacy Policy / Datenschutzerklärung"
 permalink: /privacy/
-author_profile: false
+author_profile: true
 ---
 
 ---
@@ -13,7 +13,7 @@ author_profile: false
 
 Michael Schlichtig  
 Fürstenallee 11, 33102 Paderborn, Germany  
-Email: [michael.schlichtig@uni-paderborn.de](mailto:michael.schlichtig@uni-paderborn.de)
+Email: michael.schlichtig [at] uni-paderborn [dot] de
 
 ### Hosting
 
@@ -45,7 +45,7 @@ Under the GDPR, you have the right to request access to, correction of, or delet
 
 Michael Schlichtig  
 Fürstenallee 11, 33102 Paderborn  
-E-Mail: [michael.schlichtig@uni-paderborn.de](mailto:michael.schlichtig@uni-paderborn.de)
+E-Mail: michael.schlichtig [at] uni-paderborn [dot] de
 
 ### Hosting
 
