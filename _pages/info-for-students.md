@@ -16,7 +16,7 @@ and the usability of developer tools. Feel free to propose your own related idea
 
 To express interest, send me a short email with your background (relevant courses,
 programming experience) and the kind of topic you would like to work on:
-{% include obfuscated-email.html %}.
+<span markdown="0">{% include obfuscated-email.html %}</span>.
 Please attach your transcript of records and CV with the email.
 
 ## Getting Started & Formalities
